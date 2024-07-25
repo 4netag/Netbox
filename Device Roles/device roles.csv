@@ -1,0 +1,14 @@
+name,color,slug
+Access Point,#e91e63,access-point
+Access Switch,#aa1409,access-switch
+Core Switch,#ff5722,core-switch
+Displays,#00ffff,displays
+Firewall,#ff5722,firewall
+Patch Panel,#009688,patch-panel
+Printer,#ff66ff,printer
+Server,#795548,server
+SPS,#ffc107,sps
+Video Kamera,#2196f3,video-kamera
+Video Recorder,#ff9800,video-recorder
+Virtueller Server,#ffc107,virtueller-server
+WAN Switch,#f44336,wan-switch
